@@ -1,0 +1,140 @@
+---
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+version: 2
+name: Wael Mansour
+title: Senior Software Engineer / Architect
+email: wael.rr.mansour@gmail.com
+website: www.github.com/waelouf
+darkmode: true
+twitter_username: waelouf
+github_username: waelouf
+instagram_username: waelouf
+linkedin_username: waelouf
+about_profile_image: images/profile.png
+about_content: >
+  Seasoned Software Engineer with 14+ years experience. Strong
+  background in developing SaaS and multi-tenant solutions. Highly experienced
+  in all aspects of the software development lifecycle from conceptualization to
+  development and delivery. Deeply engaged in process improvement; reduced
+  branching complexity by 90% across entire enterprise codebase. Always involved
+  in mentoring junior developers
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Alarm.com
+        link: Alarm.com
+        sub_title: Senior Software Engineer
+        caption: May 2022 - Present
+        quote: >
+          We think differently at Alarm.com. For more than 20 years, we’ve been
+          pioneering smarter solutions that deliver total protection for
+          millions of homes, businesses, and families – including our own.
+        description: >
+          Responsibilities:
+
+          * Desiging and implementing Demand / Response integration beween different 3rd party (Utility Companies, thermostat and Demand Response event management)
+      - layout: left
+        title: ZOLL Data
+        link: zolldata.com
+        sub_title: Software Engineer III
+        caption: February 2017 - May 2022
+        quote: >
+          Healthcare Software Solutions that Improve Clinical and Operational
+          Performance for EMS, Fire, Hospital and AR Optimization
+        description: >
+          Responsibilities:
+
+          * Implemented Okta a third-party identity management system, to replace the in-house authentication framework.
+
+          * Developed a custom logging framework that tracks request across layers (frontend to backend).
+
+          * Modernizing the frontend of the portal to use Vue.js instead of MVC.
+
+          * Overall system performance improvement with new APIs to replace complex WCF service and database optimization.
+
+          * Sped up the CI/CD pipeline by 80% (from 2+ hours to 10 minutes).
+
+          * Established patterns for code branching and artifact management across teams resulting in a 90% time reduction from the original process.
+
+          * Consistently collaborating with the architecture team on designing cross-team features, and exploring new technologies.
+
+          * Continually involved with mentoring and coaching junior developers across the company
+      - layout: left
+        title: Microsoft
+        sub_title: Software Engineer
+        caption: November 2015 - December 2017
+        description: >
+          Responsibilities:
+
+          * Improving the performance of Dynamic CRM product.
+
+          * Identified performance bottlenecks for the reporting module, and adding various telemetry to monitor the performance and improved the overall query execution time.
+
+          * Created dashboards using various technologies to monitor overall performance of Dynamic 365 Reporting modules
+      - layout: left
+        title: ITWORX
+        link: ITWORX.com
+        sub_title: Lead Software Engineer
+        caption: September 2012 - February 2015
+        description: >
+          Responsibilities:
+           * Design, implementing and leading teams (up to 6 members) through the whole development life-cycle for various projects and different clients in US and Middle East.
+           * Lead and participated on achieving CMMi level 3 for the company.
+           * Lead various teams through the whole development life cycle of a product
+      - layout: left
+        title: Sure Technology & Consultant
+        link: https://www.sure.com.sa/en/
+        sub_title: Software Engineer
+        caption: July 2011 - September 2012
+        description: >
+          Responsibilities:
+
+          *  Lead and develop custom applications hosted on SharePoint portal.
+
+          *  Implementing over 7 major SharePoint portals for different governmental entities and universities in the Middle East.
+
+          *  Training and supervise new developers on SharePoint platform and development
+      - layout: left
+        title: Muddyboots (Salis-IT Services)
+        link: https://muddyboots.com/
+        sub_title: Senior Software Engineer
+        caption: May 2007 - July 2011
+        description: >
+          Responsibilities:
+
+          *  Develop, maintain and adding new feature for 2 services hosted on cloud and on-premises.
+
+          *  Creating custom reports for various ERP systems.
+
+          *  Responsible for packaging, deploying the software on customer site
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: MIU
+        link: https://www.miu.edu/
+        caption: 2015 - 2017
+        sub_title: Master's Degree - Computer Science
+        description: |
+          Graduated with GPA 3.75
+  - title: A Little More About Me
+    layout: text
+    content: >
+      Alongside my interests in networks and software engineering some of my
+      other interests and hobbies are:
+
+      - Hiking
+
+      - Gaming
+
+      - Photography
+footer_show_references: true
+remote_theme: sproogen/resume-theme
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-seo-tag
