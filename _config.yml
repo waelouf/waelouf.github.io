@@ -35,7 +35,7 @@ content:
         description: >
           Responsibilities:
 
-          * Desiging and implementing Demand / Response integration beween different 3rd party (Utility Companies, thermostat and Demand Response event management)
+          * Desinging and implementing Demand / Response integration between different 3rd party (Utility Companies, thermostat and Demand Response event management)
       - layout: left
         title: ZOLL Data
         link: zolldata.com
