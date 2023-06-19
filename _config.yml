@@ -35,7 +35,9 @@ content:
         description: >
           Responsibilities:
 
-          * Desinging and implementing Demand / Response integration between different 3rd party (Utility Companies, thermostat and Demand Response event management)
+          * Developing and executing seamless integration solutions for Demand/Response between diverse third-party entities such as Utility Companies, thermostats, and Demand Response event management systems.
+          * Elevated code base quality by conducting extensive refactoring to enhance code readability and testability, bolstered by the addition of comprehensive unit and integration testing.
+          * Providing mentorship and guidance to a team of four software engineers, equipping them with industry best practices.
       - layout: left
         title: ZOLL Data
         link: zolldata.com
