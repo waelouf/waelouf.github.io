@@ -51,21 +51,21 @@ content:
         description: >
           Responsibilities:
 
-          * Implemented Okta a third-party identity management system, to replace the in-house authentication framework.
+          * Successfully implemented Okta, a third-party identity management system, as a robust replacement for the in-house authentication framework, ensuring enhanced security and streamlined user management processes.
 
-          * Developed a custom logging framework that tracks request across layers (frontend to backend).
+          * Designed and implemented a custom logging framework that effectively traces requests across various layers, seamlessly tracking the flow from the frontend to the backend. This logging solution enhanced visibility and facilitated efficient debugging and analysis throughout the application stack.
 
-          * Modernizing the frontend of the portal to use Vue.js instead of MVC.
+          * Led the modernization initiative by transitioning the frontend of the portal from MVC to Vue.js, delivering a more responsive and dynamic user experience while leveraging the power of Vue.js's reactive components and seamless data binding.
 
-          * Overall system performance improvement with new APIs to replace complex WCF service and database optimization.
+          * Achieved significant improvements in overall system performance by introducing new APIs to replace the complex WCF service, resulting in streamlined communication and reduced latency. Additionally, conducted extensive database optimization to enhance query efficiency, thereby maximizing system responsiveness and throughput.
 
-          * Sped up the CI/CD pipeline by 80% (from 2+ hours to 10 minutes).
+          * Dramatically accelerated the CI/CD pipeline, achieving an impressive 80% reduction in processing time, from over 2 hours down to just 10 minutes.
 
-          * Established patterns for code branching and artifact management across teams resulting in a 90% time reduction from the original process.
+          * Implemented standardized code branching and artifact management patterns across multiple teams, leading to a remarkable 90% reduction in time compared to the original process. By establishing these efficient patterns, teams were able to collaborate seamlessly, accelerate development cycles, and ensure smoother integration and delivery of software artifacts.
 
-          * Consistently collaborating with the architecture team on designing cross-team features, and exploring new technologies.
+          * Continuously collaborating with the architecture team to design cross-team features, while actively exploring emerging technologies to drive innovation and advancement within the organization.
 
-          * Continually involved with mentoring and coaching junior developers across the company
+          * Consistently engaged in mentoring and coaching junior developers across the organization, fostering their professional growth and development.
       - layout: left
         title: Microsoft
         sub_title: Software Engineer
