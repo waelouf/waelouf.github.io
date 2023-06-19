@@ -13,12 +13,11 @@ instagram_username: waelouf
 linkedin_username: waelouf
 about_profile_image: images/profile.png
 about_content: >
-  Seasoned Software Engineer with 14+ years experience. Strong
-  background in developing SaaS and multi-tenant solutions. Highly experienced
-  in all aspects of the software development lifecycle from conceptualization to
-  development and delivery. Deeply engaged in process improvement; reduced
-  branching complexity by 90% across entire enterprise codebase. Always involved
-  in mentoring junior developers
+  Experienced Senior Software Engineer with 15+ years of expertise in developing 
+  SaaS and multi-tenant solutions. Proficient in the complete software development 
+  lifecycle, from concept to delivery. Known for driving process improvement by significantly 
+  reducing branching complexity (90%) across the enterprise codebase. Actively involved in 
+  mentoring junior developers.
 content:
   - title: Experience
     layout: list
