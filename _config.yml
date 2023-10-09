@@ -3,9 +3,9 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 version: 2
 name: Wael Mansour
-title: Senior Software Engineer / Architect
+title: Software Engineer / Architect
 email: wael.rr.mansour@gmail.com
-website: www.github.com/waelouf
+website: waelouf.com
 darkmode: true
 twitter_username: waelouf
 github_username: waelouf
@@ -25,7 +25,7 @@ content:
       - layout: left
         title: Alarm.com
         link: Alarm.com
-        sub_title: Senior Software Engineer
+        sub_title: Software Technology Lead
         caption: May 2022 - Present
         quote: >
           We think differently at Alarm.com. For more than 20 years, we’ve been
