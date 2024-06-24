@@ -3,9 +3,9 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 version: 2
 name: Wael Mansour
-title: Software Engineer / Architect
-email: wael.rr.mansour@gmail.com
-website: blog.waelouf.com
+title: Software Engineer / Architect / GitOps
+email: wael.rr.mansour @ gmail.com
+website: https://waelouf.com
 darkmode: true
 github_username: waelouf
 linkedin_username: waelouf
