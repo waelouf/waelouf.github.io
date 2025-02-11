@@ -113,6 +113,12 @@ content:
           *  Creating custom reports for various ERP systems.
 
           *  Responsible for packaging, deploying the software on customer site
+  - title: Certifications
+    layout: list
+    content:
+      - layout: left
+        title: AWS Certified Developer – Associate
+        link: https://www.credly.com/badges/589331c0-aa90-4429-8ffd-7ecebb167799
   - title: Education
     layout: list
     content:
