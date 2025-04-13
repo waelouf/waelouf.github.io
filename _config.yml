@@ -11,7 +11,7 @@ github_username: waelouf
 linkedin_username: waelouf
 about_profile_image: images/profile.png
 about_content: >
-  Experienced Senior Software Engineer with 15+ years of expertise in developing 
+  Experienced Software Engineer with 17+ years of expertise in developing 
   SaaS and multi-tenant solutions. Proficient in the complete software development 
   lifecycle, from concept to delivery. Known for driving process improvement by significantly 
   reducing branching complexity (90%) across the enterprise codebase. Actively involved in 
@@ -21,10 +21,16 @@ content:
     layout: list
     content:
       - layout: left
+        title: Allegion
+        link: allegion.com
+        sub_title: Lead Software Engineer 
+        caption: March 2025 - present 
+        quote: TBD
+      - layout: left
         title: Alarm.com
         link: Alarm.com
         sub_title: Software Technical Lead
-        caption: May 2022 - Present
+        caption: May 2022 - March 2025
         quote: >
           We think differently at Alarm.com. For more than 20 years, we’ve been
           pioneering smarter solutions that deliver total protection for
