@@ -125,6 +125,9 @@ content:
       - layout: left
         title: AWS Certified Developer – Associate
         link: https://www.credly.com/badges/589331c0-aa90-4429-8ffd-7ecebb167799
+      - layout: left
+        title: AWS Certified Solutions Architect – Associat
+        link: https://www.credly.com/badges/f33f3352-7128-4147-b565-595c1c6826b4
   - title: Education
     layout: list
     content:
